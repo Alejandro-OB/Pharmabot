@@ -1,8 +1,8 @@
 # Game Project 
 
-Para corres el juego se debe seguir las siguientes instrucciones en la terminal.
+Para correr el juego se debe seguir las siguientes instrucciones en la terminal.
 
-´´´sh
+```sh
 cd game
 python3 main.py
-´´´
+```
